@@ -6,6 +6,7 @@
 
 
 This script automates various tasks for the Animix
+https://t.me/animix_game_bot?startapp=tq3kThroHqqz
 
 # Features
 -  Auto Join/Claim Missions  
