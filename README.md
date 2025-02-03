@@ -22,14 +22,19 @@ https://t.me/animix_game_bot?startapp=tq3kThroHqqz
 ```bash
 git clone https://github.com/Rosellines/animixBot 
 cd animixBot
+
 2. Install the required dependencies:
 ```bash
 npm install
-```
+
+3. insert your account, open game on web, inspect look on tab application session storage, and copy your query.paste to data.txt
+```bash
+nano data.txt
+
 4. Run the script:
 ```bash
 node animix.js or node animix-noproxy.js (if you don't use a proxy)
-```
+
 # Contact
 - Telegram: <https://t.me/tuineonganh>
 - Group: <https://t.me/dredchat>
