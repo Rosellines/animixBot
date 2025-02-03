@@ -18,12 +18,15 @@ https://t.me/animix_game_bot?startapp=tq3kThroHqqz
 -  Support Multi Accounts  
 -  Support Multi-Threads
 # Setting
-
 1. Install the required dependencies:
+```bash
+git clone https://github.com/Rosellines/animixBot 
+cd animixBot
+2. Install the required dependencies:
 ```bash
 npm install
 ```
-2. Run the script:
+4. Run the script:
 ```bash
 node animix.js or node animix-noproxy.js (if you don't use a proxy)
 ```
